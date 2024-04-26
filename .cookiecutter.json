@@ -1,0 +1,13 @@
+{
+  "_checkout": "2021.1.1",
+  "_output_dir": "/Users/kristianthaulow/Dev",
+  "_repo_dir": "/Users/kristianthaulow/.cookiecutters/cookiecutter-homeassistant-custom-component",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "MyCustomIntegration",
+  "domain_name": "my_custom_integration",
+  "friendly_name": "My Custom Integration",
+  "github_user": "KThaulow",
+  "project_name": "my-custom-integration",
+  "test_suite": "yes",
+  "version": "0.0.1"
+}

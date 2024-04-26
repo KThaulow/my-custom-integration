@@ -1,0 +1,10 @@
+{
+  "domain": "my_custom_integration",
+  "name": "My Custom Integration",
+  "documentation": "https://github.com/KThaulow/my-custom-integration",
+  "issue_tracker": "https://github.com/KThaulow/my-custom-integration/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@KThaulow"],
+  "requirements": []
+}
